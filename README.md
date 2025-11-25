@@ -4,18 +4,20 @@ A simple console-based Contact Management System written in Java that allows use
 
 Features
 
-Add a new contact with name, phone number, and email.
+<ul>
+  <li>Add anew contact with name, phone number , and email.</li>
 
-View all saved contacts in a structured format.
+<li>View all saved contacts in a structured format.</li>
 
-Search for a contact by name.
+<li>Search for a contact by name.</li>
 
-Delete a contact by name.
+<li>Delete a contact by name.</li>
 
-Menu-driven console application for easy interaction.
-
+<li>Menu-driven console application for easy interaction.</li>
+</uL>
 Requirements
+<ul>
+<li>Java JDK 8 or higher</li>
 
-Java JDK 8 or higher
-
-Any Java IDE (Eclipse, IntelliJ, VS Code) or terminal with javac and java installed
+<li>Any Java IDE (Eclipse, IntelliJ, VS Code) or terminal with javac and java installed</li>
+</uL>
