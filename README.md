@@ -1,8 +1,8 @@
-Contact Management System in Java
+<b>Contact Management System in Java</b>
 
 A simple console-based Contact Management System written in Java that allows users to add, view, search, and delete contacts. This project is perfect for beginners learning Java, ArrayLists, and basic OOP concepts.
 
-Features
+<b>Features</b>
 
 <ul>
   <li>Add anew contact with name, phone number , and email.</li>
@@ -15,7 +15,7 @@ Features
 
 <li>Menu-driven console application for easy interaction.</li>
 </uL>
-Requirements
+<b>Requirements</b>
 <ul>
 <li>Java JDK 8 or higher</li>
 
